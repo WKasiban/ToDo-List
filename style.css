@@ -1,0 +1,44 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+.todoTable {
+    margin: 4em;
+}
+
+.btn {
+    margin-right: 2em;
+}
+
+label {
+    margin-top: 1.5em;
+}
+
+input {
+    margin-bottom: 1em;
+}
+
+.explain {
+    margin-top: 2em;
+}
+button {
+    margin-top: 2em;
+}
+
+.btn-success,
+.btn-secondary {
+    width: 10em;
+} 
+
+.fa-edit {
+    color: #198754;
+}
+
+.fa-trash-alt {
+    color: #dc3545;
+}
+
+.priorityRadio {
+    margin-top: 2.5em;
+    margin-bottom: -0.5em;
+}
